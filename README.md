@@ -46,6 +46,16 @@
 <br>
 <br>
 
+## How to run this project (Install node.js before cloning)
+1. ### `git clone https://github.com/ChaeHyun-Lee/IssuesList_website.git`
+2. ### `npx create-react-app my-app`
+3. ### `cd my-app`
+4. ### `npm i react-router-dom`
+5. ### `npm i styled-components`
+6. ### `npm i axios`
+7. ### `npm start`
+<br>
+
 ## Pages
 **Issueslist page**
 ![listpage](https://github.com/ChaeHyun-Lee/IssuesList_website/assets/88769484/60aa0aa1-bb7e-4b22-81ce-7b79ab46f070)<br>
